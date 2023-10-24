@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Authoy Singha</h1>
-<h3 align="center">I'm a Computer Engineering Student at Memorial University of Newfoundland trying to learn as much as I can.</h3>
+<h3 align="center">I'm a Computer Engineering Student at Memorial University of Newfoundland learning as much as I can.</h3>
 
 - 🔭 I’m currently working on **My Course Projects and Personal Project(TBD)**
 
