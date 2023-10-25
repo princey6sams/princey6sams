@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, React, Typescript, Next.js, and Docker.**
 
-- ⚡ Fun fact **I am into photography.**
+- ⚡ Fun fact: **I am into photography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
