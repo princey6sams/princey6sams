@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Work Projects and Personal Projects**
 
-- 🌱 I’m currently learning **HTML, CSS, Typescript, Nuxt.js, Vue.js, and Docker.**
+- 🌱 I’m currently learning **Nuxt.js, Vue.js, FastAPI, PostgreSQL, and Docker.**
 
 - ⚡ Fun fact: **I am into photography.**
 
