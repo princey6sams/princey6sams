@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prince Authoy Singha</h1>
+<p align="center">
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?text=Hello%20World!%20%F0%9F%93%B8%EF%B8%8F&animation=twinkling&type=waving&color=timeGradient&height=300&desc=I%20am%20Prince%20Authoy%20Singha.&descSize=30&descAlignY=65&descAlign=42)"/>
+</p>
 <h3 align="center">I'm a Computer Engineering Student at Memorial University of Newfoundland learning as much as I can.</h3>
 
 - 🔭 I’m currently working on **My Work Projects and Personal Projects**
@@ -8,9 +10,10 @@
 - ⚡ Fun fact: **I am into photography.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://instagram.com/princey6sams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princey6sams" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princey6sams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princey6sams" height="30" width="40" /></a>
+  <a href="https://instagram.com/princey6sams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princey6sams" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/princey6sams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princey6sams" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
