@@ -3,11 +3,38 @@
 </p>
 <h3 align="center">I'm a Computer Engineering Student at Memorial University of Newfoundland learning as much as I can.</h3>
 
-- 🔭 I’m currently working on **My Work Projects and Personal Projects**
+```yaml
+name: Prince Authoy Singha
+located_in: St. John's, NL
+current_job: Software Development Co-op Student
+education: [
+  "Self-taught Full-stack Developer",
+  "Bachelor's of Computer Engineering - 2025",
+  "A-Levels in Science - 2019",
+  "O-Levels in Science - 2017",
+]
+areas_of_interest: [
+  "Web Development",
+  "Data Science",
+  "Machine Learning",
+  "UI/UX",
+  "Game Development",
+]
+experience: [
+  "Intern - Software Development - Angler Solutions Inc.",
+  "Intern - Software Development - Enaimco",
+  "Intern - Data Analytics - Memorial University of Newfoundland",
+  "Intern - IT Support - Memorial University of Newfoundland",
+]
 
-- 🌱 I’m currently learning **Nuxt.js, Vue.js, FastAPI, PostgreSQL, and Docker.**
-
-- ⚡ Fun fact: **I am into photography.**
+currently_learning: ["Nuxt.js", "Vue.js", "Fast API", "PostgreSQL", "Docker"]
+current_projects: [
+  {"portfolio-next": "A custom-built portfolio website to properly convey both Photography and Programming."},
+  {"gearnook": "A web application built to keep track of photography and film-making gear."},
+  {"potion": "A notion clone for learning advanced web development concepts in addition to being a personal journal."},
+]
+hobbies: ["Photography", "Cooking", "Books", "Gaming", "Music", "Fitness", "Tech"]
+```
 
 <h3 align="left">Connect with me:</h3>
 
