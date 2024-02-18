@@ -6,7 +6,7 @@
 ```yaml
 name: Prince Authoy Singha
 located_in: St. John's, NL
-current_job: Software Development Co-op Student
+current_job: Software Development Co-op Student - Angler Solutions Inc.
 education: [
   "Self-taught Full-stack Developer",
   "Bachelor's of Computer Engineering - 2025",
