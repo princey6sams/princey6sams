@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20%F0%9F%93%B8%EF%B8%8F&animation=twinkling&type=waving&color=timeGradient&height=300&desc=I%20am%20Prince%20Authoy%20Singha.&descSize=30&descAlignY=65&descAlign=42"/>
 </p>
-<h3 align="center">I'm a Computer Engineering Student at Memorial University of Newfoundland learning as much as I can.</h3>
+<h3 align="center">I'm a Computer Engineering Student at Memorial University of Newfoundland trying to learn as much as I can.</h3>
 
 ```yaml
 name: Prince Authoy Singha
