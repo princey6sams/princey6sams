@@ -10,8 +10,8 @@ current_job: Software Development Co-op Student - Angler Solutions Inc.
 education: [
   "Self-taught Full-stack Developer",
   "Bachelor's of Computer Engineering - 2025",
-  "A-Levels in Science - 2019",
-  "O-Levels in Science - 2017",
+  "Edexcel IAL A-Levels in Science - 2019",
+  "Edexcel IGCSE O-Levels in Science - 2017",
 ]
 areas_of_interest: [
   "Web Development",
