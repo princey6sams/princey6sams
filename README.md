@@ -32,6 +32,7 @@ current_projects: [
   {"portfolio-next": "A custom-built portfolio website to properly convey both Photography and Programming."},
   {"gearnook": "A web application built to keep track of photography and film-making gear."},
   {"potion": "A notion clone for learning advanced web development concepts while being my journal."},
+  {"boeuf"}
 ]
 hobbies: ["Photography", "Cooking", "Books", "Gaming", "Music", "Fitness", "Tech"]
 ```
