@@ -17,6 +17,7 @@ areas_of_interest: [
   "Web Development",
   "Data Science",
   "Machine Learning",
+  "Data Structures and Algorithms",
   "UI/UX",
   "Game Development",
 ]
